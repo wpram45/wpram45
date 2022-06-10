@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently focusing on **Java Software Development** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
+- ⚡ Fun fact:There are 2 types of people in this world those who can understand meaning of  Iqra (اقرأ) and who  can't understand
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
