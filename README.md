@@ -27,8 +27,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/wpram45)
 
----
 
-Credit: [wpram45](https://github.com/wpram45)
 
 Last Edited on: October 21, 2015 
