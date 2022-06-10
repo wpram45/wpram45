@@ -20,11 +20,8 @@
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=wpram45&theme=react-dark)
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=wpram45&theme=dark&hide_border=false" width = 500>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=wpram45&show_icons=true&theme=dark" width = 500>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpram45&theme=dark)](https://github.com/wpram45/github-readme-stats)
 
