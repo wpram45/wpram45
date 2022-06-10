@@ -7,7 +7,7 @@
  I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="https://c.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif" width="250" height="210">
 
-<h2>Patreon:https://www.patreon.com/wpram45 <h2>
+<h2>Patreon:https://www.patreon.com/wpram45 </h2>
 
 - 🌱 I’m currently focusing on **Java Programming Language** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
