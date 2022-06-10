@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/wpram45/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/wpram45/">Şerif Geyik </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/wpram45-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/wpram45)
 [![Gmail Badge](https://img.shields.io/badge/wpram734@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:wpram734@gmail.com)
