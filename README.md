@@ -31,4 +31,4 @@
 
 Credit: [wpram45](https://github.com/wpram45)
 
-Last Edited on: October 21, 2015 - DeLorean
+Last Edited on: October 21, 2015 
