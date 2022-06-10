@@ -7,7 +7,7 @@
  I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="https://c.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif" width="250" height="210">
 
-- 🌱 I’m currently focusing on **Java Software Development** and practicing **Data Structures and Algorithms** everyday.
+- 🌱 I’m currently focusing on **Java Programming Language** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact:There are 2 types of people in this world those who can understand meaning of  Iqra (اقرأ) and who  can't understand
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
