@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently focusing on **ASP.NET** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact:There are 2 types of people in this world those who can understand meaning of  Iqra (اقرأ) and who  can't understand
+- ⚡ Fun fact:There are 2 types of people in this world those who can understand meaning of  (اقرأ) and who  can't understand
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
