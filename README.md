@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/wpram734@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:wpram734@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=wpram45&style=plastic" />
 
+⭐People who are crazy enough to think they can change the world, are the ones who do.⭐
+
  I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="https://c.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif" width="250" height="210">
 
