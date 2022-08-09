@@ -9,7 +9,8 @@
  I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="https://c.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif" width="250" height="210">
 
-⚡ Interested with Quantum computer programming in [future & history & present] GÜNDOĞDU  ⚡
+⚡ Interested with Quantum computer programming in [future & history & present] GÜNDOĞDU   ⚡
+⚡You have to be a lion to beat the donk.. - Wisdom of Royal Glory ⚡
 
 
 - 🌱 I’m currently focusing on **ASP.NET** and practicing **Data Structures and Algorithms** everyday.
