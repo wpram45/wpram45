@@ -11,7 +11,7 @@
 
 ⚡ Interested with Quantum computer programming in [future & history & present] GÜNDOĞDU   ⚡
 ⚡You have to be a lion to beat the donk.. - Wisdom of Royal Glory ⚡
-⚡![image](https://user-images.githubusercontent.com/15173443/184510669-1c63df87-2404-499f-b9d4-a4c202f93569.png)⚡
+
 
 
 - 🌱 I’m currently focusing on **ASP.NET** and practicing **Data Structures and Algorithms** everyday.
@@ -33,7 +33,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpram45&theme=dark)](https://github.com/wpram45/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/wpram45)
-
+![image](https://user-images.githubusercontent.com/15173443/184510669-1c63df87-2404-499f-b9d4-a4c202f93569.png)
 
 
 Last Edited on: October 21, 2015 
