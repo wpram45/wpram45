@@ -11,6 +11,7 @@
 
 ⚡ Interested with Quantum computer programming in [future & history & present] GÜNDOĞDU   ⚡
 ⚡You have to be a lion to beat the donk.. - Wisdom of Royal Glory ⚡
+⚡![image](https://user-images.githubusercontent.com/15173443/184510669-1c63df87-2404-499f-b9d4-a4c202f93569.png)⚡
 
 
 - 🌱 I’m currently focusing on **ASP.NET** and practicing **Data Structures and Algorithms** everyday.
