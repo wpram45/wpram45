@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/wpram734@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:wpram734@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=wpram45&style=plastic" />
 
-⭐People who are crazy enough to think they can change the world, are the ones who do.⭐
+
 
  I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
 <img align='right' src="https://c.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif" width="250" height="210">
@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently focusing on **ASP.NET** and practicing **Data Structures and Algorithms** everyday.
+- 🌱 I’m currently focusing on **.NET** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact:There are 2 types of people in this world those who can understand meaning of  (اقرأ) and who  can't understand
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
