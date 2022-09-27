@@ -1,7 +1,7 @@
 <h1>Hey there, I'm <a  href="https://github.com/wpram45/">Şerif Geyik </a></h1>
 
 [![linkedin badge](https://img.shields.io/badge/wpram45-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/serifgeyik19)
-[![Gmail Badge](https://img.shields.io/badge/wpram734@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:wpram734@gmail.com)
+
 <img src="https://komarev.com/ghpvc/?username=wpram45&style=plastic" />
 
 
