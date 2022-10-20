@@ -35,4 +35,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/wpram45)
 ![image](https://user-images.githubusercontent.com/15173443/184510669-1c63df87-2404-499f-b9d4-a4c202f93569.png)
 
-<img align='right' src="https://www.techinside.com/wp-content/uploads/2019/12/n11-logo.jpg" width="250" height="210">----------Al-Hadid-13----------- A|A
+
