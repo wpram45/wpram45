@@ -6,13 +6,13 @@
 
 
 
-<img align='right' src="https://c.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif" width="250" height="210">
+
 
 ⚡ Interested with Quantum computer programming in [future & history & present] GÜNDOĞDU   ⚡
 ⚡You have to be a lion to beat the donk.. - Wisdom of Royal Glory ⚡
 
 
-
+<img align='right' src="https://www.techinside.com/wp-content/uploads/2019/12/n11-logo.jpg" width="250" height="210">----------Al-Hadid-13
 
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact:There are 2 types of people in this world those who can understand meaning of  (اقرأ) and who  can't understand
